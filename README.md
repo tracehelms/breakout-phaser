@@ -1,4 +1,7 @@
 # Breakout Phaser!
+<img width="639" alt="breakout-phaser" src="https://cloud.githubusercontent.com/assets/2370568/24939147/91aa7710-1ef8-11e7-9be7-651ee3caad46.png">
+[Play it here](http://tracehelms.com/breakout-phaser/)
+
 This is an implementaton of Breakout using the [Phaser.io](https://phaser.io) game engine.
 
 This repo was started from the [Phaser-ES6-Webpack](https://github.com/lean/phaser-es6-webpack) starter template.
